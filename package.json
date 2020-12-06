@@ -1,0 +1,24 @@
+{
+  "name": "sbor",
+  "version": "1.0.0",
+  "description": "Js test",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danzochi/Js-pact.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "excel"
+  ],
+  "author": "Danzo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Danzochi/Js-pact/issues"
+  },
+  "homepage": "https://github.com/Danzochi/Js-pact#readme"
+}
