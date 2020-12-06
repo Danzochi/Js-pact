@@ -17,7 +17,7 @@ module.exports = {
      template: 'index.html'
    }),
    new CopyPlugin([
-     { from: path.resolve(__dirname, 'src/favicon.ico')),
+     { from: path.resolve(__dirname, 'src/favicon.ico'),
       to: path.resolve(path.resolve(__dirname, 'dist'))
     },
       
