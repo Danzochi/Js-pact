@@ -2,4 +2,6 @@
 
 require("./module.js");
 
-console.log('Working');
+require("./scss/index.scss");
+
+console.log('Working!');
