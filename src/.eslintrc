@@ -13,5 +13,5 @@
     "linebreak-style": "off"
 
   },
-  "extends": ["eslint:recommended", "google"]
+  "extends": ["eslint:recommended"]
 }
